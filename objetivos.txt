@@ -1,2 +1,3 @@
 Mi lista de objetivos:
     - Aprender a programar
+    - Hacer un proyecto real
